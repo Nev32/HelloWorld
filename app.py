@@ -15,7 +15,13 @@ print(name[0:3])
 print(name[1:-1])
 #deve retornar EVIL
 
+#Next is IF STATEMENTS
 
+is_hot = True
+
+if is_hot:
+    print("Drink lot's of water.")
+print("Have a lovely day")
 
 
 
